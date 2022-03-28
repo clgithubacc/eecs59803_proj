@@ -1,0 +1,247 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "ImageView",
+            "height": 31,
+            "width": 87,
+            "position": {
+                "column_min": 59,
+                "row_min": 30,
+                "column_max": 146,
+                "row_max": 61
+            }
+        },
+        {
+            "id": 1,
+            "class": "ImageView",
+            "height": 106,
+            "width": 101,
+            "position": {
+                "column_min": 85,
+                "row_min": 102,
+                "column_max": 186,
+                "row_max": 208
+            }
+        },
+        {
+            "id": 2,
+            "class": "ImageView",
+            "height": 105,
+            "width": 99,
+            "position": {
+                "column_min": 457,
+                "row_min": 105,
+                "column_max": 556,
+                "row_max": 210
+            }
+        },
+        {
+            "id": 3,
+            "class": "ImageView",
+            "height": 102,
+            "width": 98,
+            "position": {
+                "column_min": 628,
+                "row_min": 105,
+                "column_max": 726,
+                "row_max": 207
+            }
+        },
+        {
+            "id": 4,
+            "class": "ImageView",
+            "height": 58,
+            "width": 95,
+            "position": {
+                "column_min": 265,
+                "row_min": 147,
+                "column_max": 360,
+                "row_max": 205
+            }
+        },
+        {
+            "id": 5,
+            "class": "ImageView",
+            "height": 104,
+            "width": 100,
+            "position": {
+                "column_min": 262,
+                "row_min": 295,
+                "column_max": 362,
+                "row_max": 399
+            }
+        },
+        {
+            "id": 6,
+            "class": "ImageView",
+            "height": 103,
+            "width": 98,
+            "position": {
+                "column_min": 627,
+                "row_min": 293,
+                "column_max": 725,
+                "row_max": 396
+            }
+        },
+        {
+            "id": 7,
+            "class": "ImageView",
+            "height": 58,
+            "width": 96,
+            "position": {
+                "column_min": 75,
+                "row_min": 332,
+                "column_max": 171,
+                "row_max": 390
+            }
+        },
+        {
+            "id": 8,
+            "class": "ImageView",
+            "height": 58,
+            "width": 95,
+            "position": {
+                "column_min": 467,
+                "row_min": 333,
+                "column_max": 562,
+                "row_max": 391
+            }
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 29,
+            "width": 144,
+            "position": {
+                "column_min": 320,
+                "row_min": 28,
+                "column_max": 464,
+                "row_max": 57
+            },
+            "text_content": "ALL DRINKS"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 18,
+            "width": 70,
+            "position": {
+                "column_min": 671,
+                "row_min": 33,
+                "column_max": 741,
+                "row_max": 51
+            },
+            "text_content": "10:30AM"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 26,
+            "width": 97,
+            "position": {
+                "column_min": 259,
+                "row_min": 227,
+                "column_max": 356,
+                "row_max": 253
+            },
+            "text_content": "ESPRESSO"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 23,
+            "width": 114,
+            "position": {
+                "column_min": 60,
+                "row_min": 228,
+                "column_max": 174,
+                "row_max": 251
+            },
+            "text_content": "AMERICANO"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 24,
+            "width": 127,
+            "position": {
+                "column_min": 436,
+                "row_min": 228,
+                "column_max": 563,
+                "row_max": 252
+            },
+            "text_content": "CAPPUCCINO"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 26,
+            "width": 59,
+            "position": {
+                "column_min": 637,
+                "row_min": 226,
+                "column_max": 696,
+                "row_max": 252
+            },
+            "text_content": "LATTE"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 25,
+            "width": 103,
+            "position": {
+                "column_min": 460,
+                "row_min": 416,
+                "column_max": 563,
+                "row_max": 441
+            },
+            "text_content": "RISTRETTO"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 23,
+            "width": 112,
+            "position": {
+                "column_min": 60,
+                "row_min": 418,
+                "column_max": 172,
+                "row_max": 441
+            },
+            "text_content": "MACCHIATO"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 22,
+            "width": 169,
+            "position": {
+                "column_min": 233,
+                "row_min": 420,
+                "column_max": 402,
+                "row_max": 442
+            },
+            "text_content": "DRY CAPPUCCINO"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 24,
+            "width": 110,
+            "position": {
+                "column_min": 629,
+                "row_min": 412,
+                "column_max": 739,
+                "row_max": 436
+            },
+            "text_content": "FLAT WHITE"
+        }
+    ],
+    "img_shape": [
+        480,
+        800,
+        3
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "ImageView",
+            "height": 31,
+            "width": 9,
+            "position": {
+                "column_min": 458,
+                "row_min": 15,
+                "column_max": 467,
+                "row_max": 46
+            }
+        },
+        {
+            "id": 1,
+            "class": "ImageButton",
+            "height": 133,
+            "width": 216,
+            "position": {
+                "column_min": 141,
+                "row_min": 363,
+                "column_max": 357,
+                "row_max": 496
+            }
+        },
+        {
+            "id": 2,
+            "class": "Text",
+            "height": 33,
+            "width": 370,
+            "position": {
+                "column_min": 18,
+                "row_min": 14,
+                "column_max": 388,
+                "row_max": 47
+            },
+            "text_content": "Isi CustomToggleButtonSample"
+        },
+        {
+            "id": 3,
+            "class": "Text",
+            "height": 25,
+            "width": 131,
+            "position": {
+                "column_min": 184,
+                "row_min": 529,
+                "column_max": 315,
+                "row_max": 554
+            },
+            "text_content": "Status:true"
+        }
+    ],
+    "img_shape": [
+        800,
+        499,
+        3
+    ]
+}

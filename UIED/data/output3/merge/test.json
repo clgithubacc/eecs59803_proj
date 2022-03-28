@@ -1,0 +1,182 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "TextView",
+            "height": 21,
+            "width": 99,
+            "position": {
+                "column_min": 75,
+                "row_min": 103,
+                "column_max": 174,
+                "row_max": 124
+            }
+        },
+        {
+            "id": 1,
+            "class": "TextView",
+            "height": 19,
+            "width": 46,
+            "position": {
+                "column_min": 176,
+                "row_min": 105,
+                "column_max": 222,
+                "row_max": 124
+            }
+        },
+        {
+            "id": 2,
+            "class": "TextView",
+            "height": 25,
+            "width": 93,
+            "position": {
+                "column_min": 227,
+                "row_min": 103,
+                "column_max": 320,
+                "row_max": 128
+            }
+        },
+        {
+            "id": 3,
+            "class": "TextView",
+            "height": 21,
+            "width": 82,
+            "position": {
+                "column_min": 326,
+                "row_min": 103,
+                "column_max": 408,
+                "row_max": 124
+            }
+        },
+        {
+            "id": 4,
+            "class": "Button",
+            "height": 80,
+            "width": 236,
+            "position": {
+                "column_min": 123,
+                "row_min": 145,
+                "column_max": 359,
+                "row_max": 225
+            }
+        },
+        {
+            "id": 5,
+            "class": "Button",
+            "height": 80,
+            "width": 236,
+            "position": {
+                "column_min": 123,
+                "row_min": 240,
+                "column_max": 359,
+                "row_max": 320
+            }
+        },
+        {
+            "id": 6,
+            "class": "TextView",
+            "height": 81,
+            "width": 236,
+            "position": {
+                "column_min": 123,
+                "row_min": 334,
+                "column_max": 359,
+                "row_max": 415
+            }
+        },
+        {
+            "id": 7,
+            "class": "ImageView",
+            "height": 79,
+            "width": 74,
+            "position": {
+                "column_min": 207,
+                "row_min": 480,
+                "column_max": 281,
+                "row_max": 559
+            }
+        },
+        {
+            "id": 8,
+            "class": "ImageView",
+            "height": 78,
+            "width": 79,
+            "position": {
+                "column_min": 202,
+                "row_min": 716,
+                "column_max": 281,
+                "row_max": 794
+            }
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 25,
+            "width": 77,
+            "position": {
+                "column_min": 17,
+                "row_min": 44,
+                "column_max": 94,
+                "row_max": 69
+            },
+            "text_content": "Sample"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 25,
+            "width": 288,
+            "position": {
+                "column_min": 96,
+                "row_min": 436,
+                "column_max": 384,
+                "row_max": 461
+            },
+            "text_content": "Fixedtime Progress buttons"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 25,
+            "width": 126,
+            "position": {
+                "column_min": 178,
+                "row_min": 586,
+                "column_max": 304,
+                "row_max": 611
+            },
+            "text_content": "Percentage"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 25,
+            "width": 152,
+            "position": {
+                "column_min": 165,
+                "row_min": 614,
+                "column_max": 317,
+                "row_max": 639
+            },
+            "text_content": "completed:57"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 23,
+            "width": 306,
+            "position": {
+                "column_min": 87,
+                "row_min": 671,
+                "column_max": 393,
+                "row_max": 694
+            },
+            "text_content": "Manually Progressing buttons"
+        }
+    ],
+    "img_shape": [
+        800,
+        488,
+        3
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "img_shape": [
+        750,
+        1043,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Quit",
+            "column_min": 995,
+            "row_min": 3,
+            "column_max": 1025,
+            "row_max": 19,
+            "width": 30,
+            "height": 16
+        },
+        {
+            "id": 1,
+            "content": "SE",
+            "column_min": 837,
+            "row_min": 91,
+            "column_max": 868,
+            "row_max": 107,
+            "width": 31,
+            "height": 16
+        },
+        {
+            "id": 2,
+            "content": "RecentsFaves",
+            "column_min": 27,
+            "row_min": 136,
+            "column_max": 151,
+            "row_max": 158,
+            "width": 124,
+            "height": 22
+        },
+        {
+            "id": 3,
+            "content": "You Pick Two",
+            "column_min": 176,
+            "row_min": 140,
+            "column_max": 272,
+            "row_max": 159,
+            "width": 96,
+            "height": 19
+        },
+        {
+            "id": 4,
+            "content": "Sandwiches",
+            "column_min": 316,
+            "row_min": 144,
+            "column_max": 397,
+            "row_max": 163,
+            "width": 81,
+            "height": 19
+        },
+        {
+            "id": 5,
+            "content": "Salads",
+            "column_min": 463,
+            "row_min": 149,
+            "column_max": 507,
+            "row_max": 164,
+            "width": 44,
+            "height": 15
+        },
+        {
+            "id": 6,
+            "content": "Soups&Mac",
+            "column_min": 566,
+            "row_min": 149,
+            "column_max": 653,
+            "row_max": 170,
+            "width": 87,
+            "height": 21
+        },
+        {
+            "id": 7,
+            "content": "Pizze",
+            "column_min": 715,
+            "row_min": 154,
+            "column_max": 749,
+            "row_max": 169,
+            "width": 34,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "Bakery",
+            "column_min": 830,
+            "row_min": 157,
+            "column_max": 876,
+            "row_max": 172,
+            "width": 46,
+            "height": 15
+        },
+        {
+            "id": 9,
+            "content": "Beverages",
+            "column_min": 936,
+            "row_min": 157,
+            "column_max": 1003,
+            "row_max": 176,
+            "width": 67,
+            "height": 19
+        },
+        {
+            "id": 10,
+            "content": "Beverages",
+            "column_min": 45,
+            "row_min": 188,
+            "column_max": 203,
+            "row_max": 224,
+            "width": 158,
+            "height": 36
+        },
+        {
+            "id": 11,
+            "content": "Frozen Drinks and Smoothies",
+            "column_min": 294,
+            "row_min": 196,
+            "column_max": 548,
+            "row_max": 219,
+            "width": 254,
+            "height": 23
+        },
+        {
+            "id": 12,
+            "content": "Coffee and Hot Tea",
+            "column_min": 571,
+            "row_min": 201,
+            "column_max": 729,
+            "row_max": 220,
+            "width": 158,
+            "height": 19
+        },
+        {
+            "id": 13,
+            "content": "Iced Teas &Lemonade",
+            "column_min": 752,
+            "row_min": 204,
+            "column_max": 932,
+            "row_max": 222,
+            "width": 180,
+            "height": 18
+        },
+        {
+            "id": 14,
+            "content": "Strawberry",
+            "column_min": 160,
+            "row_min": 513,
+            "column_max": 266,
+            "row_max": 535,
+            "width": 106,
+            "height": 22
+        },
+        {
+            "id": 15,
+            "content": "GreenPassion Smoothie",
+            "column_min": 438,
+            "row_min": 520,
+            "column_max": 658,
+            "row_max": 541,
+            "width": 220,
+            "height": 21
+        },
+        {
+            "id": 16,
+            "content": "Mango Smoothie",
+            "column_min": 791,
+            "row_min": 517,
+            "column_max": 939,
+            "row_max": 538,
+            "width": 148,
+            "height": 21
+        },
+        {
+            "id": 17,
+            "content": "Banana Smoothie",
+            "column_min": 128,
+            "row_min": 536,
+            "column_max": 298,
+            "row_max": 558,
+            "width": 170,
+            "height": 22
+        },
+        {
+            "id": 18,
+            "content": "$5.39",
+            "column_min": 526,
+            "row_min": 553,
+            "column_max": 573,
+            "row_max": 572,
+            "width": 47,
+            "height": 19
+        },
+        {
+            "id": 19,
+            "content": "$5.39",
+            "column_min": 844,
+            "row_min": 549,
+            "column_max": 889,
+            "row_max": 565,
+            "width": 45,
+            "height": 16
+        },
+        {
+            "id": 20,
+            "content": "$5.39",
+            "column_min": 190,
+            "row_min": 570,
+            "column_max": 237,
+            "row_max": 586,
+            "width": 47,
+            "height": 16
+        },
+        {
+            "id": 21,
+            "content": "250 Cal",
+            "column_min": 520,
+            "row_min": 573,
+            "column_max": 578,
+            "row_max": 591,
+            "width": 58,
+            "height": 18
+        },
+        {
+            "id": 22,
+            "content": "300Cal",
+            "column_min": 838,
+            "row_min": 567,
+            "column_max": 895,
+            "row_max": 585,
+            "width": 57,
+            "height": 18
+        },
+        {
+            "id": 23,
+            "content": "250 Cal",
+            "column_min": 181,
+            "row_min": 587,
+            "column_max": 245,
+            "row_max": 609,
+            "width": 64,
+            "height": 22
+        }
+    ]
+}

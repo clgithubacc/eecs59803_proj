@@ -52,14 +52,15 @@ if __name__ == '__main__':
 
     # set input image path
     input_path_img = 'data/input/497.jpg'
-    output_root = 'data/output'
+    input_path_img = 'data/input/test2.jpg'
+    output_root = 'data/output3'
 
     resized_height = resize_height_by_longest_edge(input_path_img, resize_length=800)
     color_tips()
 
     is_ip = True
     is_clf = True
-    is_ocr = False
+    is_ocr = True
     is_merge = True
 
     if is_ocr:

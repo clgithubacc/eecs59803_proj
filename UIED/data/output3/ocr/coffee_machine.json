@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        600,
+        1000,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "ALL DRINKS",
+            "column_min": 401,
+            "row_min": 36,
+            "column_max": 580,
+            "row_max": 72,
+            "width": 179,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "10:30AM",
+            "column_min": 839,
+            "row_min": 42,
+            "column_max": 927,
+            "row_max": 64,
+            "width": 88,
+            "height": 22
+        },
+        {
+            "id": 2,
+            "content": "ESPRESSO",
+            "column_min": 324,
+            "row_min": 284,
+            "column_max": 445,
+            "row_max": 317,
+            "width": 121,
+            "height": 33
+        },
+        {
+            "id": 3,
+            "content": "AMERICANO",
+            "column_min": 76,
+            "row_min": 285,
+            "column_max": 218,
+            "row_max": 314,
+            "width": 142,
+            "height": 29
+        },
+        {
+            "id": 4,
+            "content": "CAPPUCCINO",
+            "column_min": 546,
+            "row_min": 285,
+            "column_max": 704,
+            "row_max": 315,
+            "width": 158,
+            "height": 30
+        },
+        {
+            "id": 5,
+            "content": "LATTE",
+            "column_min": 797,
+            "row_min": 283,
+            "column_max": 870,
+            "row_max": 315,
+            "width": 73,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "RISTRETTO",
+            "column_min": 576,
+            "row_min": 520,
+            "column_max": 704,
+            "row_max": 552,
+            "width": 128,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "MACCHIATO",
+            "column_min": 75,
+            "row_min": 523,
+            "column_max": 216,
+            "row_max": 552,
+            "width": 141,
+            "height": 29
+        },
+        {
+            "id": 8,
+            "content": "DRY CAPPUCCINO",
+            "column_min": 292,
+            "row_min": 525,
+            "column_max": 503,
+            "row_max": 553,
+            "width": 211,
+            "height": 28
+        },
+        {
+            "id": 9,
+            "content": "FLAT WHITE",
+            "column_min": 787,
+            "row_min": 516,
+            "column_max": 924,
+            "row_max": 545,
+            "width": 137,
+            "height": 29
+        }
+    ]
+}

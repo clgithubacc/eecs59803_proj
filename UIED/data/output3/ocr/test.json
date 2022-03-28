@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        449,
+        274,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Sample",
+            "column_min": 10,
+            "row_min": 25,
+            "column_max": 53,
+            "row_max": 39,
+            "width": 43,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "SUBMIT",
+            "column_min": 107,
+            "row_min": 95,
+            "column_max": 162,
+            "row_max": 113,
+            "width": 55,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "Fixedtime Progress buttons",
+            "column_min": 54,
+            "row_min": 245,
+            "column_max": 216,
+            "row_max": 259,
+            "width": 162,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "Percentage",
+            "column_min": 100,
+            "row_min": 329,
+            "column_max": 171,
+            "row_max": 343,
+            "width": 71,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "completed:57",
+            "column_min": 93,
+            "row_min": 345,
+            "column_max": 178,
+            "row_max": 359,
+            "width": 85,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "Manually Progressing buttons",
+            "column_min": 49,
+            "row_min": 377,
+            "column_max": 221,
+            "row_max": 390,
+            "width": 172,
+            "height": 13
+        }
+    ]
+}

@@ -1,0 +1,535 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "ImageView",
+            "height": 7,
+            "width": 25,
+            "position": {
+                "column_min": 254,
+                "row_min": 35,
+                "column_max": 279,
+                "row_max": 42
+            }
+        },
+        {
+            "id": 1,
+            "class": "ImageView",
+            "height": 14,
+            "width": 16,
+            "position": {
+                "column_min": 282,
+                "row_min": 37,
+                "column_max": 298,
+                "row_max": 51
+            }
+        },
+        {
+            "id": 2,
+            "class": "ImageView",
+            "height": 59,
+            "width": 57,
+            "position": {
+                "column_min": 344,
+                "row_min": 38,
+                "column_max": 401,
+                "row_max": 97
+            }
+        },
+        {
+            "id": 3,
+            "class": "ImageView",
+            "height": 14,
+            "width": 29,
+            "position": {
+                "column_min": 461,
+                "row_min": 41,
+                "column_max": 490,
+                "row_max": 55
+            }
+        },
+        {
+            "id": 4,
+            "class": "ImageView",
+            "height": 27,
+            "width": 29,
+            "position": {
+                "column_min": 54,
+                "row_min": 46,
+                "column_max": 83,
+                "row_max": 73
+            }
+        },
+        {
+            "id": 5,
+            "class": "ImageView",
+            "height": 55,
+            "width": 56,
+            "position": {
+                "column_min": 532,
+                "row_min": 46,
+                "column_max": 588,
+                "row_max": 101
+            }
+        },
+        {
+            "id": 6,
+            "class": "ImageView",
+            "height": 58,
+            "width": 56,
+            "position": {
+                "column_min": 714,
+                "row_min": 48,
+                "column_max": 770,
+                "row_max": 106
+            }
+        },
+        {
+            "id": 7,
+            "class": "ImageView",
+            "height": 23,
+            "width": 43,
+            "position": {
+                "column_min": 150,
+                "row_min": 51,
+                "column_max": 193,
+                "row_max": 74
+            }
+        },
+        {
+            "id": 8,
+            "class": "ImageView",
+            "height": 23,
+            "width": 5,
+            "position": {
+                "column_min": 242,
+                "row_min": 52,
+                "column_max": 247,
+                "row_max": 75
+            }
+        },
+        {
+            "id": 9,
+            "class": "ImageView",
+            "height": 25,
+            "width": 37,
+            "position": {
+                "column_min": 255,
+                "row_min": 54,
+                "column_max": 292,
+                "row_max": 79
+            }
+        },
+        {
+            "id": 10,
+            "class": "ImageView",
+            "height": 44,
+            "width": 58,
+            "position": {
+                "column_min": 437,
+                "row_min": 55,
+                "column_max": 495,
+                "row_max": 99
+            }
+        },
+        {
+            "id": 11,
+            "class": "ImageView",
+            "height": 22,
+            "width": 31,
+            "position": {
+                "column_min": 637,
+                "row_min": 64,
+                "column_max": 668,
+                "row_max": 86
+            }
+        },
+        {
+            "id": 12,
+            "class": "ImageView",
+            "height": 15,
+            "width": 19,
+            "position": {
+                "column_min": 280,
+                "row_min": 80,
+                "column_max": 299,
+                "row_max": 95
+            }
+        },
+        {
+            "id": 13,
+            "class": "ImageView",
+            "height": 18,
+            "width": 35,
+            "position": {
+                "column_min": 643,
+                "row_min": 85,
+                "column_max": 678,
+                "row_max": 103
+            }
+        },
+        {
+            "id": 14,
+            "class": "ImageView",
+            "height": 11,
+            "width": 11,
+            "position": {
+                "column_min": 734,
+                "row_min": 160,
+                "column_max": 745,
+                "row_max": 171
+            }
+        },
+        {
+            "id": 15,
+            "class": "ImageView",
+            "height": 10,
+            "width": 7,
+            "position": {
+                "column_min": 762,
+                "row_min": 163,
+                "column_max": 769,
+                "row_max": 173
+            }
+        },
+        {
+            "id": 16,
+            "class": "ImageView",
+            "height": 9,
+            "width": 265,
+            "position": {
+                "column_min": 163,
+                "row_min": 178,
+                "column_max": 428,
+                "row_max": 187
+            }
+        },
+        {
+            "id": 17,
+            "class": "ImageView",
+            "height": 191,
+            "width": 199,
+            "position": {
+                "column_min": 63,
+                "row_min": 196,
+                "column_max": 262,
+                "row_max": 387
+            }
+        },
+        {
+            "id": 18,
+            "class": "ImageView",
+            "height": 186,
+            "width": 186,
+            "position": {
+                "column_min": 327,
+                "row_min": 198,
+                "column_max": 513,
+                "row_max": 384
+            }
+        },
+        {
+            "id": 19,
+            "class": "ImageView",
+            "height": 181,
+            "width": 178,
+            "position": {
+                "column_min": 572,
+                "row_min": 202,
+                "column_max": 750,
+                "row_max": 383
+            }
+        },
+        {
+            "id": 20,
+            "class": "ImageView",
+            "height": 95,
+            "width": 224,
+            "position": {
+                "column_min": 574,
+                "row_min": 479,
+                "column_max": 798,
+                "row_max": 574
+            }
+        },
+        {
+            "id": 21,
+            "class": "ImageView",
+            "height": 89,
+            "width": 186,
+            "position": {
+                "column_min": 327,
+                "row_min": 485,
+                "column_max": 513,
+                "row_max": 574
+            },
+            "children": [
+                23
+            ]
+        },
+        {
+            "id": 22,
+            "class": "ImageView",
+            "height": 82,
+            "width": 197,
+            "position": {
+                "column_min": 64,
+                "row_min": 492,
+                "column_max": 261,
+                "row_max": 574
+            }
+        },
+        {
+            "id": 23,
+            "class": "ImageView",
+            "height": 82,
+            "width": 90,
+            "position": {
+                "column_min": 374,
+                "row_min": 492,
+                "column_max": 464,
+                "row_max": 574
+            },
+            "parent": 21
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 17,
+            "width": 95,
+            "position": {
+                "column_min": 20,
+                "row_min": 104,
+                "column_max": 115,
+                "row_max": 121
+            },
+            "text_content": "RecentsFaves"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 14,
+            "width": 74,
+            "position": {
+                "column_min": 134,
+                "row_min": 107,
+                "column_max": 208,
+                "row_max": 121
+            },
+            "text_content": "You Pick Two"
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 14,
+            "width": 62,
+            "position": {
+                "column_min": 242,
+                "row_min": 110,
+                "column_max": 304,
+                "row_max": 124
+            },
+            "text_content": "Sandwiches"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 11,
+            "width": 34,
+            "position": {
+                "column_min": 354,
+                "row_min": 114,
+                "column_max": 388,
+                "row_max": 125
+            },
+            "text_content": "Salads"
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 16,
+            "width": 67,
+            "position": {
+                "column_min": 433,
+                "row_min": 114,
+                "column_max": 500,
+                "row_max": 130
+            },
+            "text_content": "Soups&Mac"
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 11,
+            "width": 26,
+            "position": {
+                "column_min": 548,
+                "row_min": 118,
+                "column_max": 574,
+                "row_max": 129
+            },
+            "text_content": "Pizze"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 11,
+            "width": 35,
+            "position": {
+                "column_min": 636,
+                "row_min": 120,
+                "column_max": 671,
+                "row_max": 131
+            },
+            "text_content": "Bakery"
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 14,
+            "width": 51,
+            "position": {
+                "column_min": 717,
+                "row_min": 120,
+                "column_max": 768,
+                "row_max": 134
+            },
+            "text_content": "Beverages"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 27,
+            "width": 121,
+            "position": {
+                "column_min": 34,
+                "row_min": 144,
+                "column_max": 155,
+                "row_max": 171
+            },
+            "text_content": "Beverages"
+        },
+        {
+            "id": 33,
+            "class": "Text",
+            "height": 17,
+            "width": 195,
+            "position": {
+                "column_min": 225,
+                "row_min": 150,
+                "column_max": 420,
+                "row_max": 167
+            },
+            "text_content": "Frozen Drinks and Smoothies"
+        },
+        {
+            "id": 34,
+            "class": "Text",
+            "height": 14,
+            "width": 121,
+            "position": {
+                "column_min": 437,
+                "row_min": 154,
+                "column_max": 558,
+                "row_max": 168
+            },
+            "text_content": "Coffee and Hot Tea"
+        },
+        {
+            "id": 35,
+            "class": "Text",
+            "height": 14,
+            "width": 138,
+            "position": {
+                "column_min": 576,
+                "row_min": 156,
+                "column_max": 714,
+                "row_max": 170
+            },
+            "text_content": "Iced Teas &Lemonade"
+        },
+        {
+            "id": 36,
+            "class": "Text",
+            "height": 17,
+            "width": 81,
+            "position": {
+                "column_min": 122,
+                "row_min": 393,
+                "column_max": 203,
+                "row_max": 410
+            },
+            "text_content": "Strawberry"
+        },
+        {
+            "id": 37,
+            "class": "Text",
+            "height": 16,
+            "width": 169,
+            "position": {
+                "column_min": 335,
+                "row_min": 398,
+                "column_max": 504,
+                "row_max": 414
+            },
+            "text_content": "GreenPassion Smoothie"
+        },
+        {
+            "id": 38,
+            "class": "Text",
+            "height": 16,
+            "width": 113,
+            "position": {
+                "column_min": 606,
+                "row_min": 396,
+                "column_max": 719,
+                "row_max": 412
+            },
+            "text_content": "Mango Smoothie"
+        },
+        {
+            "id": 39,
+            "class": "Text",
+            "height": 17,
+            "width": 130,
+            "position": {
+                "column_min": 98,
+                "row_min": 410,
+                "column_max": 228,
+                "row_max": 427
+            },
+            "text_content": "Banana Smoothie"
+        },
+        {
+            "id": 40,
+            "class": "Text",
+            "height": 15,
+            "width": 36,
+            "position": {
+                "column_min": 403,
+                "row_min": 423,
+                "column_max": 439,
+                "row_max": 438
+            },
+            "text_content": "$5.39"
+        },
+        {
+            "id": 41,
+            "class": "Text",
+            "height": 14,
+            "width": 45,
+            "position": {
+                "column_min": 398,
+                "row_min": 439,
+                "column_max": 443,
+                "row_max": 453
+            },
+            "text_content": "250 Cal"
+        }
+    ],
+    "img_shape": [
+        575,
+        799,
+        3
+    ]
+}

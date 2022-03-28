@@ -1,0 +1,29 @@
+{
+    "img_shape": [
+        685,
+        428,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Isi CustomToggleButtonSample",
+            "column_min": 16,
+            "row_min": 12,
+            "column_max": 333,
+            "row_max": 41,
+            "width": 317,
+            "height": 29
+        },
+        {
+            "id": 1,
+            "content": "Status:true",
+            "column_min": 158,
+            "row_min": 453,
+            "column_max": 270,
+            "row_max": 475,
+            "width": 112,
+            "height": 22
+        }
+    ]
+}
